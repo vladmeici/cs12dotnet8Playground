@@ -1,0 +1,14 @@
+C:\cs12dotnet8\Chapter04\Debugging\bin\Debug\net8.0\Debugging.exe
+C:\cs12dotnet8\Chapter04\Debugging\bin\Debug\net8.0\Debugging.deps.json
+C:\cs12dotnet8\Chapter04\Debugging\bin\Debug\net8.0\Debugging.runtimeconfig.json
+C:\cs12dotnet8\Chapter04\Debugging\bin\Debug\net8.0\Debugging.dll
+C:\cs12dotnet8\Chapter04\Debugging\bin\Debug\net8.0\Debugging.pdb
+C:\cs12dotnet8\Chapter04\Debugging\obj\Debug\net8.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs12dotnet8\Chapter04\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfoInputs.cache
+C:\cs12dotnet8\Chapter04\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfo.cs
+C:\cs12dotnet8\Chapter04\Debugging\obj\Debug\net8.0\Debugging.csproj.CoreCompileInputs.cache
+C:\cs12dotnet8\Chapter04\Debugging\obj\Debug\net8.0\Debugging.dll
+C:\cs12dotnet8\Chapter04\Debugging\obj\Debug\net8.0\refint\Debugging.dll
+C:\cs12dotnet8\Chapter04\Debugging\obj\Debug\net8.0\Debugging.pdb
+C:\cs12dotnet8\Chapter04\Debugging\obj\Debug\net8.0\Debugging.genruntimeconfig.cache
+C:\cs12dotnet8\Chapter04\Debugging\obj\Debug\net8.0\ref\Debugging.dll

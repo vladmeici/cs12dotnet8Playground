@@ -1,0 +1,14 @@
+C:\cs12dotnet8\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.exe
+C:\cs12dotnet8\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.deps.json
+C:\cs12dotnet8\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.runtimeconfig.json
+C:\cs12dotnet8\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.dll
+C:\cs12dotnet8\Chapter02\AsyncConsole\bin\Debug\net8.0\AsyncConsole.pdb
+C:\cs12dotnet8\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs12dotnet8\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\cs12dotnet8\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfo.cs
+C:\cs12dotnet8\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\cs12dotnet8\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.dll
+C:\cs12dotnet8\Chapter02\AsyncConsole\obj\Debug\net8.0\refint\AsyncConsole.dll
+C:\cs12dotnet8\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.pdb
+C:\cs12dotnet8\Chapter02\AsyncConsole\obj\Debug\net8.0\AsyncConsole.genruntimeconfig.cache
+C:\cs12dotnet8\Chapter02\AsyncConsole\obj\Debug\net8.0\ref\AsyncConsole.dll

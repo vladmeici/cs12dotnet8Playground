@@ -1,0 +1,14 @@
+C:\cs12dotnet8\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.exe
+C:\cs12dotnet8\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.deps.json
+C:\cs12dotnet8\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.runtimeconfig.json
+C:\cs12dotnet8\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.dll
+C:\cs12dotnet8\Chapter03\IterationStatements\bin\Debug\net8.0\IterationStatements.pdb
+C:\cs12dotnet8\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs12dotnet8\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.AssemblyInfoInputs.cache
+C:\cs12dotnet8\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.AssemblyInfo.cs
+C:\cs12dotnet8\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\cs12dotnet8\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.dll
+C:\cs12dotnet8\Chapter03\IterationStatements\obj\Debug\net8.0\refint\IterationStatements.dll
+C:\cs12dotnet8\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.pdb
+C:\cs12dotnet8\Chapter03\IterationStatements\obj\Debug\net8.0\IterationStatements.genruntimeconfig.cache
+C:\cs12dotnet8\Chapter03\IterationStatements\obj\Debug\net8.0\ref\IterationStatements.dll

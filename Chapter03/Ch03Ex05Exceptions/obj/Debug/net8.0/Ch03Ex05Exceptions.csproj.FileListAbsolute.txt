@@ -1,0 +1,14 @@
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.AssemblyInfoInputs.cache
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.AssemblyInfo.cs
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.csproj.CoreCompileInputs.cache
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.exe
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.deps.json
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.runtimeconfig.json
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.dll
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\bin\Debug\net8.0\Ch03Ex05Exceptions.pdb
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.dll
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\obj\Debug\net8.0\refint\Ch03Ex05Exceptions.dll
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.pdb
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\obj\Debug\net8.0\Ch03Ex05Exceptions.genruntimeconfig.cache
+C:\cs12dotnet8\Chapter03\Ch03Ex05Exceptions\obj\Debug\net8.0\ref\Ch03Ex05Exceptions.dll

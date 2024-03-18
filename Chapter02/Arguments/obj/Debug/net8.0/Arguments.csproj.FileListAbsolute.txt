@@ -1,0 +1,14 @@
+C:\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.exe
+C:\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.deps.json
+C:\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.runtimeconfig.json
+C:\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.dll
+C:\cs12dotnet8\Chapter02\Arguments\bin\Debug\net8.0\Arguments.pdb
+C:\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfoInputs.cache
+C:\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfo.cs
+C:\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.csproj.CoreCompileInputs.cache
+C:\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.dll
+C:\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\refint\Arguments.dll
+C:\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.pdb
+C:\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\Arguments.genruntimeconfig.cache
+C:\cs12dotnet8\Chapter02\Arguments\obj\Debug\net8.0\ref\Arguments.dll

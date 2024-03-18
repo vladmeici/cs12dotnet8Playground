@@ -1,0 +1,14 @@
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\bin\Release\net8.0\TopLevelFunctions.exe
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\bin\Release\net8.0\TopLevelFunctions.deps.json
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\bin\Release\net8.0\TopLevelFunctions.runtimeconfig.json
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\bin\Release\net8.0\TopLevelFunctions.dll
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\bin\Release\net8.0\TopLevelFunctions.pdb
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\obj\Release\net8.0\TopLevelFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\obj\Release\net8.0\TopLevelFunctions.AssemblyInfoInputs.cache
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\obj\Release\net8.0\TopLevelFunctions.AssemblyInfo.cs
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\obj\Release\net8.0\TopLevelFunctions.csproj.CoreCompileInputs.cache
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\obj\Release\net8.0\TopLevelFunctions.dll
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\obj\Release\net8.0\refint\TopLevelFunctions.dll
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\obj\Release\net8.0\TopLevelFunctions.pdb
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\obj\Release\net8.0\TopLevelFunctions.genruntimeconfig.cache
+C:\cs12dotnet8\Chapter04\TopLevelFunctions\obj\Release\net8.0\ref\TopLevelFunctions.dll

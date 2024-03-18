@@ -1,0 +1,14 @@
+C:\cs12dotnet8\Chapter04\HotReloading\bin\Release\net8.0\HotReloading.exe
+C:\cs12dotnet8\Chapter04\HotReloading\bin\Release\net8.0\HotReloading.deps.json
+C:\cs12dotnet8\Chapter04\HotReloading\bin\Release\net8.0\HotReloading.runtimeconfig.json
+C:\cs12dotnet8\Chapter04\HotReloading\bin\Release\net8.0\HotReloading.dll
+C:\cs12dotnet8\Chapter04\HotReloading\bin\Release\net8.0\HotReloading.pdb
+C:\cs12dotnet8\Chapter04\HotReloading\obj\Release\net8.0\HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs12dotnet8\Chapter04\HotReloading\obj\Release\net8.0\HotReloading.AssemblyInfoInputs.cache
+C:\cs12dotnet8\Chapter04\HotReloading\obj\Release\net8.0\HotReloading.AssemblyInfo.cs
+C:\cs12dotnet8\Chapter04\HotReloading\obj\Release\net8.0\HotReloading.csproj.CoreCompileInputs.cache
+C:\cs12dotnet8\Chapter04\HotReloading\obj\Release\net8.0\HotReloading.dll
+C:\cs12dotnet8\Chapter04\HotReloading\obj\Release\net8.0\refint\HotReloading.dll
+C:\cs12dotnet8\Chapter04\HotReloading\obj\Release\net8.0\HotReloading.pdb
+C:\cs12dotnet8\Chapter04\HotReloading\obj\Release\net8.0\HotReloading.genruntimeconfig.cache
+C:\cs12dotnet8\Chapter04\HotReloading\obj\Release\net8.0\ref\HotReloading.dll

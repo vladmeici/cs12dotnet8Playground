@@ -1,0 +1,14 @@
+C:\cs12dotnet8\Chapter02\Variables\bin\Debug\net8.0\Variables.exe
+C:\cs12dotnet8\Chapter02\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\cs12dotnet8\Chapter02\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\cs12dotnet8\Chapter02\Variables\bin\Debug\net8.0\Variables.dll
+C:\cs12dotnet8\Chapter02\Variables\bin\Debug\net8.0\Variables.pdb
+C:\cs12dotnet8\Chapter02\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs12dotnet8\Chapter02\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\cs12dotnet8\Chapter02\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\cs12dotnet8\Chapter02\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\cs12dotnet8\Chapter02\Variables\obj\Debug\net8.0\Variables.dll
+C:\cs12dotnet8\Chapter02\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\cs12dotnet8\Chapter02\Variables\obj\Debug\net8.0\Variables.pdb
+C:\cs12dotnet8\Chapter02\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\cs12dotnet8\Chapter02\Variables\obj\Debug\net8.0\ref\Variables.dll

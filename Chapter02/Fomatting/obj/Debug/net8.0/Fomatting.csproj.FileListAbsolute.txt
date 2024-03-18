@@ -1,0 +1,14 @@
+C:\cs12dotnet8\Chapter02\Fomatting\bin\Debug\net8.0\Fomatting.exe
+C:\cs12dotnet8\Chapter02\Fomatting\bin\Debug\net8.0\Fomatting.deps.json
+C:\cs12dotnet8\Chapter02\Fomatting\bin\Debug\net8.0\Fomatting.runtimeconfig.json
+C:\cs12dotnet8\Chapter02\Fomatting\bin\Debug\net8.0\Fomatting.dll
+C:\cs12dotnet8\Chapter02\Fomatting\bin\Debug\net8.0\Fomatting.pdb
+C:\cs12dotnet8\Chapter02\Fomatting\obj\Debug\net8.0\Fomatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs12dotnet8\Chapter02\Fomatting\obj\Debug\net8.0\Fomatting.AssemblyInfoInputs.cache
+C:\cs12dotnet8\Chapter02\Fomatting\obj\Debug\net8.0\Fomatting.AssemblyInfo.cs
+C:\cs12dotnet8\Chapter02\Fomatting\obj\Debug\net8.0\Fomatting.csproj.CoreCompileInputs.cache
+C:\cs12dotnet8\Chapter02\Fomatting\obj\Debug\net8.0\Fomatting.dll
+C:\cs12dotnet8\Chapter02\Fomatting\obj\Debug\net8.0\refint\Fomatting.dll
+C:\cs12dotnet8\Chapter02\Fomatting\obj\Debug\net8.0\Fomatting.pdb
+C:\cs12dotnet8\Chapter02\Fomatting\obj\Debug\net8.0\Fomatting.genruntimeconfig.cache
+C:\cs12dotnet8\Chapter02\Fomatting\obj\Debug\net8.0\ref\Fomatting.dll
