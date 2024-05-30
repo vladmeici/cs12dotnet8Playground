@@ -1,13 +1,14 @@
 ﻿// All types in this file will be defined in this file-scoped namespace.
 namespace Packt.Shared;
 
-public class Person : object
+public partial class Person : object
 {
     #region Fields: Data or state for this person.
 
     public string? Name; // ? means it can be null.
     public DateTimeOffset Born;
-    public WondersOfTheAncientWorld FavoriteAncientWonder;
+    // This has been moved to PersonAutoGen.cs as a property.
+    // public WondersOfTheAncientWorld FavoriteAncientWonder;
     public WondersOfTheAncientWorld BucketList;
     public List<Person> Children = new();
 
@@ -56,9 +57,72 @@ public class Person : object
         return $"{Name} says 'Hello!'";
     }
 
-    public string SayHelloTo(string name)
+    public string SayHello(string name)
     {
         return $"{Name} says 'Hello, {name}!'";
+    }
+
+    public string OptionalParameters(int count, string command = "Run!", double number = 0.0, bool active = true)
+    {
+        return string.Format("command is {0}, number is {1}, active is {2}", command, number, active);
+    }
+
+    public void PassingParameters(int w,in int x, ref int y, out int z)
+    {
+        // out parameters cannot have a default and they must be initialized inside the method.
+        z = 100;
+
+        // Increment each parameter except the read-only x.
+        w++;
+        // x++; // Gives a compiler error.
+        y++;
+        z++;
+
+        WriteLine($"In the method: w={w}, x={x}, y={y}, z={z}");
+    }
+
+    // Method that returns a tuple: (string, int)
+    public (string, int) GetFruit()
+    {
+        return ("Apples", 5);
+    }
+
+    // Method that returns a tuple with named fields.
+    public (string Name, int Number) GetNamedFruit()
+    {
+        return (Name: "Apples", Number: 5);
+    }
+
+    // Deconstructors: Break down this object into parts.
+
+    public void Deconstruct(out string? name, out DateTimeOffset dob)
+    {
+        name = Name;
+        dob = Born;
+    }
+
+    public void Deconstruct(out string? name, out DateTimeOffset dob, out WondersOfTheAncientWorld fav)
+    {
+        name = Name;
+        dob = Born;
+        fav = FavoriteAncientWonder;
+    }
+
+    //Method with a local function.
+    public static int Factorial(int number)
+    {
+        if (number < 0)
+        {
+            throw new ArgumentException($"{nameof(number)} cannot be less than zero.");
+        }
+
+        return localFactorial(number);
+
+        int localFactorial(int localNumber) // local function.
+        {
+            if (localNumber == 0) return 1;
+            return localNumber * localFactorial(localNumber - 1);
+        }
     }
 
     #endregion

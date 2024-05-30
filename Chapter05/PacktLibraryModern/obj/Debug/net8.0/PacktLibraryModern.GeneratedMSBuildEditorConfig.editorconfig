@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PacktLibraryModern
-build_property.ProjectDir = C:\cs12dotnet8\Chapter05\PacktLibraryModern\
+build_property.ProjectDir = C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

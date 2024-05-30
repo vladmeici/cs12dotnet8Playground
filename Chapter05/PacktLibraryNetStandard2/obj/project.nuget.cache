@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MXtGjrElghBj1T2TKH6lsO9MYXhKYwch08IqNABhwrdAj4vMWL4HconZTJnsA1Meya+V1gjIaytwIQ7J8ZRgrQ==",
+  "dgSpecHash": "ASPWBg8kc0QDg+W0Vw47GiR314Mt/AovoVaEBhvtIjDy1On2yPwceK3+R3THsQmKe3MUGcjmhkf7xXv+qWjDUg==",
   "success": true,
-  "projectFilePath": "C:\\cs12dotnet8\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
+  "projectFilePath": "C:\\Users\\valexand\\Documents\\Vlad\\cs12dotnet8Playground\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\valexand\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\valexand\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

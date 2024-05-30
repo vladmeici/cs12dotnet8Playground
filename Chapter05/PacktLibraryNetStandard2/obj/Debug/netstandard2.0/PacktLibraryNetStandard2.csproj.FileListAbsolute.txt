@@ -8,3 +8,14 @@ C:\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\Packt
 C:\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
 C:\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.dll
 C:\cs12dotnet8\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.pdb
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.deps.json
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.dll
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\bin\Debug\netstandard2.0\PacktLibraryNetStandard2.pdb
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.csproj.AssemblyReference.cache
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.AssemblyInfo.cs
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.sourcelink.json
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.dll
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryNetStandard2\obj\Debug\netstandard2.0\PacktLibraryNetStandard2.pdb

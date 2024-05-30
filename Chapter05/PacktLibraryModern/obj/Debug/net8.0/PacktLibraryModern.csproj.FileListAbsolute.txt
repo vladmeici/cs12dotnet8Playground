@@ -9,3 +9,15 @@ C:\cs12dotnet8\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.
 C:\cs12dotnet8\Chapter05\PacktLibraryModern\obj\Debug\net8.0\refint\PacktLibraryModern.dll
 C:\cs12dotnet8\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.pdb
 C:\cs12dotnet8\Chapter05\PacktLibraryModern\obj\Debug\net8.0\ref\PacktLibraryModern.dll
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.deps.json
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.dll
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.pdb
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfoInputs.cache
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfo.cs
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.sourcelink.json
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.dll
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\obj\Debug\net8.0\refint\PacktLibraryModern.dll
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.pdb
+C:\Users\valexand\Documents\Vlad\cs12dotnet8Playground\Chapter05\PacktLibraryModern\obj\Debug\net8.0\ref\PacktLibraryModern.dll
