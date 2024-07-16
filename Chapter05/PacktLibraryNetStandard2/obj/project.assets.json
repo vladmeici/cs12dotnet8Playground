@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\valexand\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valexand\\Documents\\Vlad\\cs12dotnet8Playground\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
+      "projectUniqueName": "C:\\cs12dotnet8\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
       "projectName": "PacktLibraryNetStandard2",
-      "projectPath": "C:\\Users\\valexand\\Documents\\Vlad\\cs12dotnet8Playground\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
-      "packagesPath": "C:\\Users\\valexand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valexand\\Documents\\Vlad\\cs12dotnet8Playground\\Chapter05\\PacktLibraryNetStandard2\\obj\\",
+      "projectPath": "C:\\cs12dotnet8\\Chapter05\\PacktLibraryNetStandard2\\PacktLibraryNetStandard2.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\cs12dotnet8\\Chapter05\\PacktLibraryNetStandard2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\valexand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -212,11 +212,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -241,7 +236,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

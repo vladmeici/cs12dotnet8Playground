@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J3VHiCTSKBOzbNF/OvqRxO8j9LPKz+zUzyz+3Shge/HqWFdVF8JNtCoznQ6JGCQaJ5j2oLFMZ3+KiElK/B5Qgw==",
+  "dgSpecHash": "85R+kANPhx1l7WX54/vi5oK7E11tfKDyfbkiCy4IW/RSHDCRz4C3GmRtfoOQTmdfyqf01uw0Z7b6lZkk8ofamQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valexand\\Documents\\Vlad\\cs12dotnet8Playground\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+  "projectFilePath": "C:\\cs12dotnet8\\Chapter05\\PeopleApp\\PeopleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
