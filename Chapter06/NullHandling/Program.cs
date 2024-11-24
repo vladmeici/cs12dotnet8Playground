@@ -1,4 +1,6 @@
-﻿int thisCannotBeNull = 4;
+﻿using Packt.Shared; // To use Address.
+
+int thisCannotBeNull = 4;
 //thisCannotBeNull = null; // CS0037 compile error!
 WriteLine(thisCannotBeNull);
 
@@ -16,3 +18,18 @@ WriteLine(thisCouldBeNull.GetValueOrDefault());
 Nullable<int> thisCouldAlsoBeNull = null;
 thisCouldBeNull = 9;
 WriteLine(thisCouldBeNull);
+
+Address address = new(city: "London")
+{
+    Building = null,
+    Street = null!, // null-forgiving operator
+    Region = "UK"
+};
+
+WriteLine(address.Building?.Length);
+if( address.Street is not null)
+{
+    WriteLine(address.Street.Length);
+}
+
+WriteLine(address.City);

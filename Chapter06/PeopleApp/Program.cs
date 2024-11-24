@@ -144,3 +144,43 @@ WriteLine($"({dv4.X}, {dv4.Y})");
 DisplacementVector dv5 = new(3, 5);
 WriteLine($"dv1.Equals(dv5): {dv1.Equals(dv5)}");
 WriteLine($"dv1 == dv5: {dv1 == dv5}");
+
+Employee john = new()
+{
+    Name = "John Jones",
+    Born = new(year: 1990, month: 7, day: 28, hour: 0, minute: 0, second: 0, offset: TimeSpan.Zero)
+};
+
+john.WriteToConsole();
+
+john.EmployeeCode = "JJ001";
+john.HireDate = new(year: 2014, month: 11, day: 23);
+WriteLine($"{john.Name} was hired on {john.HireDate:yyyy-MM-dd}");
+
+WriteLine(john.ToString());
+
+Employee aliceInEmployee = new() { Name = "Alice", EmployeeCode = "AA123" };
+
+Person aliceInPerson = aliceInEmployee;
+aliceInEmployee.WriteToConsole();
+aliceInPerson.WriteToConsole();
+WriteLine(aliceInEmployee.ToString());
+WriteLine(aliceInPerson.ToString());
+
+if(aliceInPerson is Employee)
+{
+    WriteLine($"{nameof(aliceInPerson)} is an Employee.");
+
+    Employee explicitAlice = (Employee)aliceInPerson;
+
+    // Safely do something with explicitAlice.
+}
+
+Employee? aliceAsEmployee = aliceInPerson as Employee;
+
+if (aliceAsEmployee is not null)
+{
+    WriteLine($"{nameof(aliceInPerson)} as an Employee.");
+
+    // Safely do something with aliceAsEmployee.
+}
