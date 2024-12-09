@@ -8,11 +8,16 @@
   </PropertyGroup>
 
 	<ItemGroup>
-        <Using Include="System.Console" Static="true"/>
+        <Using Include="System.Console" Static="true" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<Using Remove="System"/>
+		<Using Remove="System" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	  <PackageReference Include="Packt.Csdotnet.SharedLibrary" Version="8.0.0" />
 	</ItemGroup>
 
 </Project>
